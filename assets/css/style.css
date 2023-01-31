@@ -211,3 +211,27 @@ position: absolute;
               
                       }
 
+                      footer {
+                     height: 150px;
+                        
+              
+                      }
+
+                      #links {
+                        text-align: center;
+                           
+                         }
+
+                         #links li {
+                          display: inline;
+                             
+                           }
+
+                           #links i {
+                            font-size: 160%;
+                            margin: 1%;
+                            padding: 5%;
+                            color: #3a3a3a;
+                               
+                             }
+
