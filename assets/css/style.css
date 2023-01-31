@@ -235,3 +235,19 @@ position: absolute;
                                
                              }
 
+                             #photos {
+                             clear: both;
+                             line-height: 0;
+                             column-count: 4;
+                             column-gap: 1px;
+
+                                 
+                               }
+
+                               #photos > img {
+                                width: 100%;
+                                    
+                                  }
+
+
+
